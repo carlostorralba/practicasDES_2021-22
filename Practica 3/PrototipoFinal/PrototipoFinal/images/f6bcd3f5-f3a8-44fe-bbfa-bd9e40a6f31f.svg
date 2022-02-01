@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>checkbox-android-on</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Widget-Libraries" transform="translate(-319.000000, -822.000000)">
+            <g id="Radiobuttons---Checkboxes-Android---IOS" transform="translate(70.000000, 705.000000)">
+                <g id="Radiobuttons---Checkboxes-Android" transform="translate(3.000000, 119.000000)">
+                    <rect id="Rectangle" stroke="#6200EE" stroke-width="4.65" fill="#6200EE" x="250.325" y="2.325" width="37.35" height="37.35" rx="4.65"></rect>
+                    <path d="M282.454005,14.2411941 L266.737906,31.2574633 C266.009913,31.9398199 264.917922,31.9398199 264.189929,31.2574633 L256.545995,23.75154 C255.818002,23.0691834 255.818002,22.0456484 256.545995,21.3632917 C257.273989,20.6809351 258.365979,20.6809351 259.093973,21.3632917 L265.645916,27.5045017 L279.906027,11.5117675 C280.634021,10.8294108 281.726011,10.8294108 282.454005,11.5117675 C283.181998,12.1941242 283.181998,13.5588375 282.454005,14.2411941 Z" id="checkbox_arrow" fill="#FFFFFF"></path>
+                </g>
+                <g id="SLICES" transform="translate(3.000000, 47.000000)"></g>
+            </g>
+        </g>
+    </g>
+</svg>
