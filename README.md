@@ -1,22 +1,47 @@
 # practicasDES_2021-22
 Repositorio de prácticas de La asignatura DES del máster de ingeniería informática.
 
-### Práctica 1
-[Contenidos](https://github.com/carlostorralba/practicasDES_2021-22/tree/main/Practica%201/Contenidos) :books:
+Prácticas realizadas por [Juan Carlos González Quesada](https://github.com/jcgq) y [Carlos Torralba Ruiz](https://github.com/carlostorralba)
 
-[Enunciados](https://github.com/carlostorralba/practicasDES_2021-22/tree/main/Practica%201/Enunciados) :hammer_and_wrench:
 
-### Práctica 2
-[Contenidos](https://github.com/carlostorralba/practicasDES_2021-22/tree/main/Practica%202/Contenidos) :books:
+[Práctica 1](https://github.com/carlostorralba/practicasDES_2021-22/tree/main/Practica%201/Contenidos)
 
-[Enunciados](https://github.com/carlostorralba/practicasDES_2021-22/tree/main/Practica%202/Enunciados) :hammer_and_wrench:
+- Generación de ideas: Canvas.
+- Documento inicial.
+- Documento de estudio de mercado.
+- Mapa conceptual.
+- Presentación.
 
-### Práctica 3
-[Contenidos](https://github.com/carlostorralba/practicasDES_2021-22/tree/main/Practica%203) :books:
+[Práctica 2](https://github.com/carlostorralba/practicasDES_2021-22/tree/main/Practica%202/Contenidos)
 
-[Entrega 1](https://github.com/carlostorralba/practicasDES_2021-22/tree/main/Practica%203/entrega1)
+- Documento de visión de formato.
+- Plantilla personajes escenarios.
+- Storytelling.
+- Visión del producto.
+- Presentación.
 
-[Entrega 2](https://github.com/carlostorralba/practicasDES_2021-22/tree/main/Practica%203/entrega2)
+[Práctica 3](https://github.com/carlostorralba/practicasDES_2021-22/tree/main/Practica%203) 
 
+- Plan de entregas.
+- Prototipo final.
+- Memoria de la práctica.
+- Presentación.
+- Entrega 1.
+  - Arquitectura de la información.   
+  - Bocetos a papel.
+  - Diagrama conceptual.
+  - Diagrama workflow.
+  - Modelo de tareas.
+  - Prototipo a papel.
+- Entrega 2
+  - Arquitectura de la información.   
+  - Bocetos a papel.
+  - Diagrama conceptual.
+  - Diagrama de navegación
+  - Diagrama workflow.
+  - Modelo de tareas.
+  - Prototipo de alta fidelidad.
+
+[Práctica 4: Enlace web producto](https://sites.google.com/view/localclick-com) 
 
 
